@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/bayesian_models/mlruns/655028558624131455/d5309ec91fb143a1a6677558c3476c33/artifacts
+end_time: 1733443522197
+entry_point_name: ''
+experiment_id: '655028558624131455'
+lifecycle_stage: active
+run_id: d5309ec91fb143a1a6677558c3476c33
+run_name: redolent-vole-99
+run_uuid: d5309ec91fb143a1a6677558c3476c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733443515221
+status: 3
+tags: []
+user_id: danrl

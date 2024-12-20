@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/bayesian_models/mlruns/655028558624131455/680cc58cd8c14a3c8abed50daa81d471/artifacts
+end_time: 1733413997309
+entry_point_name: ''
+experiment_id: '655028558624131455'
+lifecycle_stage: active
+run_id: 680cc58cd8c14a3c8abed50daa81d471
+run_name: peaceful-fowl-299
+run_uuid: 680cc58cd8c14a3c8abed50daa81d471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733413991650
+status: 3
+tags: []
+user_id: danrl

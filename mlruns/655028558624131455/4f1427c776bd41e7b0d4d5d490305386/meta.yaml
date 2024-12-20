@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/bayesian_models/mlruns/655028558624131455/4f1427c776bd41e7b0d4d5d490305386/artifacts
+end_time: 1733444056322
+entry_point_name: ''
+experiment_id: '655028558624131455'
+lifecycle_stage: active
+run_id: 4f1427c776bd41e7b0d4d5d490305386
+run_name: classy-mole-886
+run_uuid: 4f1427c776bd41e7b0d4d5d490305386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733444048386
+status: 3
+tags: []
+user_id: danrl

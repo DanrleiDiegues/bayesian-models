@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/bayesian_models/mlruns/655028558624131455/f35bc3dd7cb547ff9408de6587643a7b/artifacts
+end_time: 1733444188600
+entry_point_name: ''
+experiment_id: '655028558624131455'
+lifecycle_stage: active
+run_id: f35bc3dd7cb547ff9408de6587643a7b
+run_name: popular-gnat-513
+run_uuid: f35bc3dd7cb547ff9408de6587643a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733444181787
+status: 3
+tags: []
+user_id: danrl
